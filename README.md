@@ -1,1 +1,3 @@
-# Loan_approval_prediction
+I developed a “Loan Approval Prediction Dashboard” using ~45,000 loan applications (22% approval rate, ~9,900 approvals, ~35,000 rejections). The dashboard visualizes key dimensions—credit score vs. home ownership, interest rate by gender/approval, income by education, past defaults—so stakeholders can quickly understand risk drivers and identify outlier applicant profiles.
+
+Throughout the project I handled end-to-end analytics: data cleaning, exploratory work, modelling the data structure, and building interactive visuals with filters for age, gender, education, home ownership. The aim: convert raw lending data into actionable dashboards to enable smarter decision-making, optimise approval workflows and reduce credit risk.
